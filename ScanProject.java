@@ -1,3 +1,8 @@
+/*
+ * ScanProject — single-file project scanner for AI context
+ * Copyright (c) 2026 malexple
+ * Licensed under the MIT License
+ */
 import javax.swing.*;
 import javax.swing.border.*;
 import javax.swing.event.*;
