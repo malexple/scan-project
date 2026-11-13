@@ -644,7 +644,7 @@ public class ScanProject {
         void show() {
             history = loadHistory(root);
 
-            JFrame frame = new JFrame("Select Files to Send to Perplexity");
+            JFrame frame = new JFrame("Select Files to Send to AI chat");
             frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
             frame.setSize(620, 740);
             frame.setLocationRelativeTo(null);
